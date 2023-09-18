@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695033394 source:c:\users\carto\documents\informatik\programmieren\hello world\loopstatistics\main.c
+	<stdio.h>
+	<stdlib.h>
+
